@@ -1,7 +1,7 @@
 import random
 from discord.ext import commands
 
-palavras_tristes = ['sad', 'triste', 'depressão', 'deprimido', 'ansioso', 'ansiedade', 'raiva', 'puto', 'F']
+palavras_tristes = ['sad', 'triste', 'depressão', 'deprimido', 'ansioso', 'ansiedade', 'raiva', 'puto']
 
 palavras_encorajadoras = ['Saia dessa amigo', 
         'Tenso em', 
